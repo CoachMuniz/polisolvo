@@ -1,3 +1,93 @@
+#productos{
+    background-color: #00803f;
+    border-radius: 1vw 1vw;
+}
 #logo{
     width: 100%;
+}
+.logo{
+    width: 100%;
+}
+.navlogo{
+    border: none;
+    width: 80%;
+}
+.carta{
+    display: inline-block;
+    padding: 1vw;
+}
+.cartita{
+    width: 48%;
+    float: left;
+    margin: 1%;
+}
+.carrouselVertical{
+    margin: 1vw;
+}
+.categoriaPrincipal{
+    font-family: aktiv-grotesk-extended,sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 8vw;
+    background-color: rgb(233, 236, 239);
+    text-align: center;
+    color: rgb(0, 128, 63);
+    height: 12vw;
+    padding-top: 1vw;
+    text-shadow: 0.5vw 0.5vw .3vw rgba(0, 0, 0, 0.5);
+    border: .25vw solid  #00803f;
+    border-radius: 1vw;
+    -webkit-text-stroke: .3vw black;
+}
+}
+.icono{
+    height: 6vw;
+    margin: 1vw;
+}
+#zocaloContactos{
+    position: relative;
+    margin: unset;
+    font-family: aktiv-grotesk,sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 5vw;
+    display: inline-block;
+    height: 10vw;
+    width: 40vw;
+    top: 1.5vw;
+    left: 1vw;
+}
+#iconos{
+    display: inline-block;
+    height: 10vw;
+}
+.categoria{
+    padding: 0mm;
+    display: block;
+    width: 100%;
+    margin: 0cm;
+    border-bottom: none;
+    border-radius: 1vw;
+}
+.categoriaButton{
+    padding: 0mm;
+    display: block;
+    width: 100%;
+    border-radius: 1vw;
+}
+.fotoCategoria{
+    width: 100%;
+    margin: 0cm;
+}
+.tarjetaCategoria{
+    margin: .5vw;
+    border-radius: 1vw;
+    box-shadow: 0.5vw 0.5vw 1vw black;
+    background-color: #9cfacb;
+    border-style: outset;
+}
+.contenido{
+    border-radius: 1vw;
+    margin: 0cm;
+    padding: 0cm;
 }
